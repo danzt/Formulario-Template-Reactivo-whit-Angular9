@@ -1,5 +1,11 @@
 # Formularios
 
+## Por Template y Reactivos.
+
+  Dos ejercicios para notar la diferencia que hay entre ambas aproximaciones, bien sea por template o reactivos.
+
+Dale starts xD !!
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
 
 ## Development server
